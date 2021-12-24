@@ -16,3 +16,20 @@ Where we have to upload a image of a person to find him in video
 
 ## How to Install
 
+1. Clone the repo
+```
+git clone https://github.com/Rishikesh0/Face_Recognition.git
+```
+
+2. Install open-cv and face-recognition
+ 
+```
+pip install opencv-python
+
+pip install face-recognition
+```
+
+
+
+
+
