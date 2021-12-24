@@ -29,6 +29,17 @@ pip install opencv-python
 pip install face-recognition
 ```
 
+#### How show the name on video 
+
+![This is an image](https://github.com/Rishikesh0/Face_Recognition/blob/main/Face_Recognition/face01.png)
+
+![This is an image](https://github.com/Rishikesh0/Face_Recognition/blob/main/Face_Recognition/face2.png)
+
+#### If image is not define it show unknown
+
+![This is an image](https://github.com/Rishikesh0/Face_Recognition/blob/main/Face_Recognition/face3.png)
+
+
 
 
 
